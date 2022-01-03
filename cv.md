@@ -10,3 +10,4 @@ Hi! I'm Nastya. Very curious and inquisitive. I dream of developing cool project
 ##### <h5>__Skills__
 HTML, CSS,
 VS Code
+###### <h6>__Code Example__
