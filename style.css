@@ -1,3 +1,36 @@
 body { 
-    background-color: rgb(255, 239, 22);
+    background-color: rgb(2, 255, 150);
     }
+h1{
+    font-size: 70px;
+}    
+h2{
+    font-size: 30px;
+}
+p {
+    color: rgb(0, 24, 243)
+}
+ h2{
+     color: rgb(77, 0, 77);
+ }
+h1 {
+    color: rgb(255, 38, 0);
+}
+h1 {
+    text-decoration: underline
+}
+ h1 {
+    position:absolute;
+
+left:700px;
+
+top: 350px;
+
+width: 100%;
+ }   
+time {
+    color:rgb(4, 0, 255) ;
+}
+html {
+    scroll-behavior: smooth; 
+  }
